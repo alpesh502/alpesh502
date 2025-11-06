@@ -11,7 +11,6 @@
 - 💼 Skilled in **SQL Server, Python, Azure Data Factory, Databricks, Synapse Analytics, and Power BI**  
 - 📚 Focused on mastering **end-to-end data pipelines** and **ETL automation**  
 - 🎯 Goal: To build scalable, efficient, and insightful data systems  
-- 🧩 Fun Fact: I enjoy turning messy datasets into beautiful dashboards 📊  
 
 ---
 
