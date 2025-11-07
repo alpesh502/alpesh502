@@ -6,42 +6,17 @@
 
 ---
 
-### 🧠 About Me
-- 🎓 Currently exploring **Data Engineering and Cloud Technologies**  
-- 💼 Skilled in **SQL Server, Python, Azure Data Factory, Databricks, Synapse Analytics, and Power BI**  
-- 📚 Focused on mastering **end-to-end data pipelines** and **ETL automation**  
-- 🎯 Goal: To build scalable, efficient, and insightful data systems  
+### About Me
+-  Currently exploring **Data Engineering and Cloud Technologies**  
+-  Skilled in **SQL Server, Python, Azure Data Factory, Databricks, Synapse Analytics, and Power BI**  
+-  Focused on mastering **end-to-end data pipelines** and **ETL automation**  
+-  Goal: To build scalable, efficient, and insightful data systems  
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" height="40" alt="databricks logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
-</div>
+###  Featured Projects
 
----
-
-### 🚀 Featured Projects
-
-#### 🧱 [Medallion-Architecture-Pipeline](https://github.com/alpesh502/Medallion-Architecture-Pipeline)
+####  [Medallion-Architecture-Pipeline](https://github.com/alpesh502/Medallion-Architecture-Pipeline)
 End-to-end **Azure Data Engineering pipeline** using **ADF, Databricks, Delta Lake, and Synapse Analytics**.  
 - Built on the **Medallion Architecture (Bronze → Silver → Gold)**  
 - Data ingestion, transformation, and analytics integration with Power BI  
@@ -49,7 +24,7 @@ End-to-end **Azure Data Engineering pipeline** using **ADF, Databricks, Delta La
 
 ---
 
-#### 🏢 [Modern-Sales-DataWarehouse](https://github.com/alpesh502/Modern-Sales-DataWarehouse)
+####  [Modern-Sales-DataWarehouse](https://github.com/alpesh502/Modern-Sales-DataWarehouse)
 Designed a **Modern Data Warehouse** using **SQL Server**, following Medallion Architecture principles.  
 - ETL pipelines from raw CSV (ERP & CRM) data  
 - Star schema data modeling for analytical reporting  
@@ -57,7 +32,7 @@ Designed a **Modern Data Warehouse** using **SQL Server**, following Medallion A
 
 ---
 
-#### 📊 [POWER-BI-Projects (Atliq Hardware Sales Insights)](https://github.com/alpesh502/POWER-BI-Projects)
+####  [POWER-BI-Projects (Atliq Hardware Sales Insights)](https://github.com/alpesh502/POWER-BI-Projects)
 Interactive **Power BI Dashboard** to analyze sales trends, product performance, and customer behavior.  
 - Real-time and dynamic visualizations  
 - Derived insights for regional and product-level strategy optimization  
@@ -72,7 +47,7 @@ Annual sales report for **Vrinda Store (2023)** using Excel.
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alpesh-singh-34b365296" target="_blank">
@@ -90,7 +65,7 @@ Annual sales report for **Vrinda Store (2023)** using Excel.
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alpesh502&show_icons=true&theme=tokyonight" height="180"/>
@@ -99,5 +74,34 @@ Annual sales report for **Vrinda Store (2023)** using Excel.
 
 ---
 
-### 🏷️ Tags
-`#DataEngineering` `#Azure` `#SQLServer` `#Python` `#ETL` `#Databricks` `#PowerBI` `#SynapseAnalytics` `#DataWarehouse` `#ExcelDashboard`
+###  Tech Stack & Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="spark logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" height="40" alt="databricks logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="excel logo"/>
+</div>
+
+---
+
+###  Tags
+`#Python` `#SQLServer` `#Spark` `#PySpark` `#Azure` `#ADF` `#Databricks` `#ETL` `#DataEngineering` `#PowerBI` `#SynapseAnalytics` `#DataWarehouse` `#ExcelDashboard` `#Pandas` `#NumPy` `#Git` `#GitHub` `#MySQL` `#CloudComputing` `#DataAnalytics`
