@@ -1,7 +1,7 @@
 <h1 align="center"> I'm Alpesh Singh</h1>
 
 <p align="center">
-  <b>Aspiring Data Engineer</b> | Passionate about transforming raw data into actionable insights 🚀 
+  <b>Aspiring Data Engineer</b> | Passionate about transforming raw data into actionable insights 
 </p>
 
 ---
