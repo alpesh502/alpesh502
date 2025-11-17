@@ -1,7 +1,7 @@
 <h1 align="center"> I'm Alpesh Singh</h1>
 
 <p align="center">
-  <b>Aspiring Data Engineer</b> | Passionate about transforming raw data into actionable insights 
+  <b>Aspiring Data Engineer</b> | Passionate about transforming raw data into actionable insights
 </p>
 
 ---
@@ -27,8 +27,8 @@ End-to-end **Azure Data Engineering pipeline** using **ADF, Databricks, Delta La
 ####  [Modern-Sales-DataWarehouse](https://github.com/alpesh502/Modern-Sales-DataWarehouse)
 Designed a **Modern Data Warehouse** using **SQL Server**, following Medallion Architecture principles.  
 - ETL pipelines from raw CSV (ERP & CRM) data  
-- Star schema data modeling for analytical reporting  
-- Demonstrates SQL development, data cleansing, and integration  
+- Star schema data modeling for analytical reporting
+- Demonstrates SQL development, data cleansing, and integration
 
 ---
 
