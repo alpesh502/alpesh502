@@ -19,14 +19,14 @@
 ####  [Medallion-Architecture-Pipeline](https://github.com/alpesh502/Medallion-Architecture-Pipeline)
 End-to-end **Azure Data Engineering pipeline** using **ADF, Databricks, Delta Lake, and Synapse Analytics**.  
 - Built on the **Medallion Architecture (Bronze → Silver → Gold)**  
-- Data ingestion, transformation, and analytics integration with Power BI  
-- Showcases cloud data orchestration and scalable ETL design  
-
+- Data ingestion, transformation, and analytics integration with Power BI
+- Showcases cloud data orchestration and scalable ETL design
+- 
 ---
 
 ####  [Modern-Sales-DataWarehouse](https://github.com/alpesh502/Modern-Sales-DataWarehouse)
-Designed a **Modern Data Warehouse** using **SQL Server**, following Medallion Architecture principles.  
-- ETL pipelines from raw CSV (ERP & CRM) data  
+Designed a **Modern Data Warehouse** using **SQL Server**, following Medallion Architecture principles.
+- ETL pipelines from raw CSV (ERP & CRM) data
 - Star schema data modeling for analytical reporting
 - Demonstrates SQL development, data cleansing, and integration
 
