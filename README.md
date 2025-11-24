@@ -21,7 +21,6 @@ End-to-end **Azure Data Engineering pipeline** using **ADF, Databricks, Delta La
 - Built on the **Medallion Architecture (Bronze → Silver → Gold)**  
 - Data ingestion, transformation, and analytics integration with Power BI
 - Showcases cloud data orchestration and scalable ETL design
-- 
 ---
 
 ####  [Modern-Sales-DataWarehouse](https://github.com/alpesh502/Modern-Sales-DataWarehouse)
