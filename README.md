@@ -1,106 +1,142 @@
-<h1 align="center"> I'm Alpesh Singh</h1>
+<h1 align="center">Hi, I’m Alpesh Singh 👋</h1>
 
 <p align="center">
-  <b>Aspiring Data Engineer</b> | Passionate about transforming raw data into actionable insights
+  Aspiring Data Engineer | BTech CSE (AI & ML)
 </p>
 
 ---
 
-### About Me
--  Currently exploring **Data Engineering and Cloud Technologies**  
--  Skilled in **SQL Server, Python, Azure Data Factory, Databricks, Synapse Analytics, and Power BI**  
--  Focused on mastering **end-to-end data pipelines** and **ETL automation**  
--  Goal: To build scalable, efficient, and insightful data systems  
+## 👨‍💻 About Me
+I’m a **BTech 3rd-year Computer Science (AI & ML)** student with a strong interest in **data engineering and analytics systems**.
+
+I like working on projects that go beyond basic demos and instead focus on:
+- How data pipelines work in real environments  
+- How raw data is ingested, cleaned, and transformed at scale  
+- How engineering decisions affect reporting and business use cases  
+
+Most of my learning comes from building and breaking things while working on hands-on projects.
 
 ---
 
-###  Featured Projects
+## 🛠️ Technical Skills
 
-####  [Medallion-Architecture-Pipeline](https://github.com/alpesh502/Medallion-Architecture-Pipeline)
-End-to-end **Azure Data Engineering pipeline** using **ADF, Databricks, Delta Lake, and Synapse Analytics**.  
-- Built on the **Medallion Architecture (Bronze → Silver → Gold)**  
-- Data ingestion, transformation, and analytics integration with Power BI
-- Showcases cloud data orchestration and scalable ETL design
----
+**Programming & Querying**
+- SQL  
+- Python  
 
-####  [Modern-Sales-DataWarehouse](https://github.com/alpesh502/Modern-Sales-DataWarehouse)
-Designed a **Modern Data Warehouse** using **SQL Server**, following Medallion Architecture principles.
-- ETL pipelines from raw CSV (ERP & CRM) data
-- Star schema data modeling for analytical reporting
-- Demonstrates SQL development, data cleansing, and integration
+**Cloud & Data Platforms**
+- Azure Data Factory (ADF)  
+- Azure Data Lake Gen2  
+- Azure Databricks  
+- Azure Synapse Analytics  
 
----
+**Data Engineering Concepts**
+- ETL / ELT pipelines  
+- Medallion Architecture (Bronze, Silver, Gold)  
+- Incremental data loading  
+- Slowly Changing Dimensions (SCD Type 2)  
+- Delta Lake & ACID transactions  
 
-####  [POWER-BI-Projects (Atliq Hardware Sales Insights)](https://github.com/alpesh502/POWER-BI-Projects)
-Interactive **Power BI Dashboard** to analyze sales trends, product performance, and customer behavior.  
-- Real-time and dynamic visualizations  
-- Derived insights for regional and product-level strategy optimization  
+**Analytics & BI**
+- Power BI  
+- Excel  
 
----
-
-#### 🛒 [Vrinda Store Data Analysis (MS Excel Dashboard)](https://github.com/alpesh502/Vrinda-Store-Data-Analysis)
-Annual sales report for **Vrinda Store (2023)** using Excel.  
-- Built interactive dashboard using **Pivot Tables & Slicers**  
-- Identified key insights by age, gender, and region  
-- Improved sales strategy with targeted analysis  
+**Databases**
+- SQL Server  
+- MySQL  
 
 ---
 
-###  Connect With Me
+## ⭐ Selected Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/alpesh-singh-34b365296" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:alpeshsingh502@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/alpesh502" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" />
-  </a>
-</p>
+### 🏥 Healthcare Revenue Cycle Management (RCM) – Azure Data Engineering  
+🔗 https://github.com/alpesh502/azure-healthcare-rcm-pipeline  
+
+This is an **end-to-end data engineering project** based on a healthcare revenue cycle scenario, built to understand how enterprise data platforms are designed.
+
+**Key work in this project:**
+- Built **config-driven ingestion pipelines** using Azure Data Factory  
+- Implemented **Bronze → Silver → Gold Medallion Architecture**  
+- Designed a **Common Data Model (CDM)** to standardize data from multiple hospital branches  
+- Handled **incremental loads** and historical data tracking  
+- Implemented **SCD Type 2** using Delta Lake MERGE operations  
+- Prepared datasets for Accounts Receivable and Claims analysis  
+
+The focus of this project is more on **pipeline design, scalability, and correctness** than just transformations.
 
 ---
 
-###  GitHub Stats
+### 🔷 Medallion Architecture Pipeline – Azure  
+🔗 https://github.com/alpesh502/Medallion-Architecture-Pipeline  
 
+A structured Azure project demonstrating:
+- Raw to curated data movement  
+- Databricks-based transformations  
+- Delta Lake tables for reliability  
+- Analytics-ready outputs for BI tools  
+
+---
+
+### 🏬 Modern Sales Data Warehouse – SQL Server  
+🔗 https://github.com/alpesh502/Modern-Sales-DataWarehouse  
+
+In this project, I worked on:
+- Building ETL flows from ERP and CRM-style CSV data  
+- Designing a star schema for reporting  
+- Writing optimized SQL queries for analysis  
+
+---
+
+### 📊 Power BI – Sales Insights  
+🔗 https://github.com/alpesh502/POWER-BI-Projects  
+
+Power BI dashboards focused on:
+- Sales and revenue analysis  
+- Product and region-level insights  
+- KPI-driven business reporting  
+
+---
+
+### 🛒 Vrinda Store Sales Analysis – Excel  
+🔗 https://github.com/alpesh502/Vrinda-Store-Data-Analysis  
+
+An Excel-based analysis project involving:
+- Pivot tables and slicers  
+- Basic customer segmentation  
+- Clean and readable dashboards  
+
+---
+
+## 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/alpesh-singh-34b365296  
+- Email: alpeshsingh502@gmail.com  
+- GitHub: https://github.com/alpesh502  
+
+---
+
+## 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpesh502&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpesh502&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alpesh502&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpesh502&layout=compact&theme=tokyonight" height="170"/>
 </div>
 
 ---
 
-###  Tech Stack & Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="spark logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" height="40" alt="databricks logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="excel logo"/>
+## ⚙️ Tools & Technologies
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original-wordmark.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38"/>
 </div>
 
 ---
 
-###  Tags
-`#Python` `#SQLServer` `#Spark` `#PySpark` `#Azure` `#ADF` `#Databricks` `#ETL` `#DataEngineering` `#PowerBI` `#SynapseAnalytics` `#DataWarehouse` `#ExcelDashboard` `#Pandas` `#NumPy` `#Git` `#GitHub` `#MySQL` `#CloudComputing` `#DataAnalytics`
+## 🏷️ Keywords
+`Data Engineering` `Azure` `ADF` `Databricks` `Delta Lake`  
+`ETL` `Healthcare Analytics` `SQL` `Python` `Power BI`
+
+
