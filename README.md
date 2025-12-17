@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Alpesh Singh 👋</h1>
+<h1 align="center">I’m Alpesh Singh </h1>
 
 <p align="center">
   Aspiring Data Engineer | BTech CSE (AI & ML)
@@ -7,14 +7,13 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a **BTech 3rd-year Computer Science (AI & ML)** student with a strong interest in **data engineering and analytics systems**.
+I’m a **BTech 3rd-year CSE(AI & ML)** student with a strong interest in **data engineering and analytics systems**.
 
 I like working on projects that go beyond basic demos and instead focus on:
 - How data pipelines work in real environments  
 - How raw data is ingested, cleaned, and transformed at scale  
 - How engineering decisions affect reporting and business use cases  
 
-Most of my learning comes from building and breaking things while working on hands-on projects.
 
 ---
 
@@ -37,9 +36,6 @@ Most of my learning comes from building and breaking things while working on han
 - Slowly Changing Dimensions (SCD Type 2)  
 - Delta Lake & ACID transactions  
 
-**Analytics & BI**
-- Power BI  
-- Excel  
 
 **Databases**
 - SQL Server  
@@ -47,7 +43,6 @@ Most of my learning comes from building and breaking things while working on han
 
 ---
 
-## ⭐ Selected Projects
 
 ### 🏥 Healthcare Revenue Cycle Management (RCM) – Azure Data Engineering  
 🔗 https://github.com/alpesh502/azure-healthcare-rcm-pipeline  
@@ -108,8 +103,8 @@ An Excel-based analysis project involving:
 ---
 
 ## 🤝 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/alpesh-singh-34b365296  
-- Email: alpeshsingh502@gmail.com  
+- LinkedIn: www.linkedin.com/in/alpeshsingh
+- Email: alpeshsingh85@gmail.com  
 - GitHub: https://github.com/alpesh502  
 
 ---
