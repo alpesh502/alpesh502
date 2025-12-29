@@ -125,14 +125,6 @@ An Excel-based analysis project involving:
 - Email: alpeshsingh85@gmail.com  
 - GitHub: https://github.com/alpesh502  
 
----
-
-## 📊 GitHub Activity
-
-![Alpesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpesh502&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpesh502&layout=compact&theme=tokyonight)
-
 
 ---
 
