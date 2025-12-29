@@ -75,7 +75,7 @@ A complete **data warehouse implementation** using SQL Server, focused on struct
 
 ### 🍷 Wine Quality Prediction System – Machine Learning Deployment  
 🔗 https://github.com/alpesh502/wine-quality-prediction-system  
-🌐 Live Demo: https://wine-quality-ml.onrender.com  
+🌐 Live Demo: https://wine-quality-ml-v9tk.onrender.com/ 
 
 An **end-to-end machine learning regression project** that predicts the **quality score of red wine** based on physicochemical attributes and deploys the trained model as a **Flask web application**.
 
