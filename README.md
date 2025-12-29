@@ -80,14 +80,10 @@ A complete **data warehouse implementation** using SQL Server, focused on struct
 An **end-to-end machine learning regression project** that predicts the **quality score of red wine** based on physicochemical attributes and deploys the trained model as a **Flask web application**.
 
 **What this project demonstrates:**
-- Framing the problem as a **regression task** instead of binary classification  
 - Data preprocessing and model training using **Scikit-learn**  
 - Model selection using **Random Forest Regressor**  
-- Clear separation between **model training and inference**  
-- Model serialization using `pickle`  
-- Deployment of the trained model using **Flask**  
+- Clear separation between **model training and inference**   
 - Real-time predictions through a **user-friendly web interface**  
-- Cloud deployment on **Render (free tier)** with a public domain  
 
 This project highlights my understanding of **production-style ML workflows**, not just experimentation in notebooks.
 
@@ -132,10 +128,11 @@ An Excel-based analysis project involving:
 ---
 
 ## 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpesh502&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpesh502&layout=compact&theme=tokyonight" height="170"/>
-</div>
+
+![Alpesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpesh502&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpesh502&layout=compact&theme=tokyonight)
+
 
 ---
 
