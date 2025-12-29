@@ -1,84 +1,106 @@
-<h1 align="center">I’m Alpesh Singh </h1>
+<h1 align="center">Alpesh Singh</h1>
 
 <p align="center">
-  Aspiring Data Engineer | BTech CSE (AIML)
+  Aspiring Data Engineer | BTech CSE (AI&ML)
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I’m a **BTech 3rd-year CSE(AIML)** student with a strong interest in **data engineering and analytics systems**.
+I’m a **BTech 3rd-year CSE (AIML)** student with a strong interest in **data engineering and analytics systems**.
 
-I like working on projects that go beyond basic demos and instead focus on:
+I enjoy working on projects that go beyond basic demos and focus on:
 - How data pipelines work in real environments  
 - How raw data is ingested, cleaned, and transformed at scale  
-- How engineering decisions affect reporting and business use cases  
-
+- How engineering decisions impact reporting and business use cases  
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming & Querying**
+### Programming & Querying
 - SQL  
 - Python  
 
-**Cloud & Data Platforms**
+### Cloud & Data Platforms
 - Azure Data Factory (ADF)  
 - Azure Data Lake Gen2  
 - Azure Databricks  
 - Azure Synapse Analytics  
 
-**Data Engineering Concepts**
+### Data Engineering Concepts
 - ETL / ELT pipelines  
 - Medallion Architecture (Bronze, Silver, Gold)  
 - Incremental data loading  
 - Slowly Changing Dimensions (SCD Type 2)  
 - Delta Lake & ACID transactions  
 
-
-**Databases**
+### Databases
 - SQL Server  
 - MySQL  
 
 ---
 
+## 📌 Featured Projects
 
 ### 🏥 Healthcare Revenue Cycle Management (RCM) – Azure Data Engineering  
 🔗 https://github.com/alpesh502/azure-healthcare-rcm-pipeline  
 
-This is an **end-to-end data engineering project** based on a healthcare revenue cycle scenario, built to understand how enterprise data platforms are designed.
+An **end-to-end data engineering project** simulating a healthcare revenue cycle system, designed to reflect real enterprise data platforms.
 
-**Key work in this project:**
+**Key highlights:**
 - Built **config-driven ingestion pipelines** using Azure Data Factory  
 - Implemented **Bronze → Silver → Gold Medallion Architecture**  
-- Designed a **Common Data Model (CDM)** to standardize data from multiple hospital branches  
+- Designed a **Common Data Model (CDM)** to standardize multi-branch hospital data  
 - Handled **incremental loads** and historical data tracking  
 - Implemented **SCD Type 2** using Delta Lake MERGE operations  
-- Prepared datasets for Accounts Receivable and Claims analysis  
+- Prepared analytics-ready datasets for Accounts Receivable and Claims analysis  
 
-The focus of this project is more on **pipeline design, scalability, and correctness** than just transformations.
-
----
-
-### 🔷 Medallion Architecture Pipeline – Azure  
-🔗 https://github.com/alpesh502/Medallion-Architecture-Pipeline  
-
-A structured Azure project demonstrating:
-- Raw to curated data movement  
-- Databricks-based transformations  
-- Delta Lake tables for reliability  
-- Analytics-ready outputs for BI tools  
+This project focuses heavily on **scalability, correctness, and real-world pipeline design**.
 
 ---
 
 ### 🏬 Modern Sales Data Warehouse – SQL Server  
 🔗 https://github.com/alpesh502/Modern-Sales-DataWarehouse  
 
-In this project, I worked on:
-- Building ETL flows from ERP and CRM-style CSV data  
-- Designing a star schema for reporting  
-- Writing optimized SQL queries for analysis  
+A complete **data warehouse implementation** using SQL Server, focused on structured analytics and reporting.
+
+**Key work:**
+- Built ETL pipelines from ERP and CRM-style CSV data  
+- Designed **fact and dimension tables** using star schema modeling  
+- Wrote optimized SQL queries for analytical use cases  
+- Prepared business-ready datasets for BI consumption  
+
+---
+
+### 🍷 Wine Quality Prediction System – Machine Learning Deployment  
+🔗 https://github.com/alpesh502/wine-quality-prediction-system  
+🌐 Live Demo: https://wine-quality-ml.onrender.com  
+
+An **end-to-end machine learning regression project** that predicts the **quality score of red wine** based on physicochemical attributes and deploys the trained model as a **Flask web application**.
+
+**What this project demonstrates:**
+- Framing the problem as a **regression task** instead of binary classification  
+- Data preprocessing and model training using **Scikit-learn**  
+- Model selection using **Random Forest Regressor**  
+- Clear separation between **model training and inference**  
+- Model serialization using `pickle`  
+- Deployment of the trained model using **Flask**  
+- Real-time predictions through a **user-friendly web interface**  
+- Cloud deployment on **Render (free tier)** with a public domain  
+
+This project highlights my understanding of **production-style ML workflows**, not just experimentation in notebooks.
+
+---
+
+### 🔷 Medallion Architecture Pipeline – Azure  
+🔗 https://github.com/alpesh502/Medallion-Architecture-Pipeline  
+
+A structured Azure-based project demonstrating:
+- Raw to curated data movement  
+- Databricks-based transformations  
+- Delta Lake tables for reliability  
+- Analytics-ready outputs for BI tools  
 
 ---
 
@@ -87,7 +109,7 @@ In this project, I worked on:
 
 Power BI dashboards focused on:
 - Sales and revenue analysis  
-- Product and region-level insights  
+- Product- and region-level insights  
 - KPI-driven business reporting  
 
 ---
@@ -98,12 +120,12 @@ Power BI dashboards focused on:
 An Excel-based analysis project involving:
 - Pivot tables and slicers  
 - Basic customer segmentation  
-- Clean and readable dashboards  
+- Clean, business-friendly dashboards  
 
 ---
 
 ## 🤝 Connect With Me
-- LinkedIn: www.linkedin.com/in/alpeshsingh
+- LinkedIn: https://www.linkedin.com/in/alpeshsingh  
 - Email: alpeshsingh85@gmail.com  
 - GitHub: https://github.com/alpesh502  
 
@@ -132,6 +154,4 @@ An Excel-based analysis project involving:
 
 ## 🏷️ Keywords
 `Data Engineering` `Azure` `ADF` `Databricks` `Delta Lake`  
-`ETL` `Healthcare Analytics` `SQL` `Python` `Power BI`
-
-
+`ETL` `Healthcare Analytics` `SQL` `Python` `Machine Learning` `Flask` `Power BI`
