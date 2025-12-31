@@ -85,7 +85,6 @@ An **end-to-end machine learning regression project** that predicts the **qualit
 - Clear separation between **model training and inference**   
 - Real-time predictions through a **user-friendly web interface**  
 
-This project highlights my understanding of **production-style ML workflows**, not just experimentation in notebooks.
 
 ---
 
