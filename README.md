@@ -10,7 +10,7 @@
 I’m a **BTech 3rd-year CSE (AI&ML)** student with a strong interest in **data engineering and analytics systems**.
 
 I enjoy working on projects that go beyond basic demos and focus on:
-- How data pipelines work in real environments  
+- How data pipelines work in real environments 
 - How raw data is ingested, cleaned, and transformed at scale  
 - How engineering decisions impact reporting and business use cases  
 
