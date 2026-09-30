@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a **BTech 3rd-year CSE (AI&ML)** student with a strong interest in **data engineering and analytics systems**.
+I’m a **BTech final year CSE (AI&ML)** student with a strong interest in **data engineering and analytics systems**.
 
 I enjoy working on projects that go beyond basic demos and focus on:
 - How data pipelines work in real environments 
